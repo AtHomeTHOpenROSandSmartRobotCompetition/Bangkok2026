@@ -8,7 +8,7 @@
 - [Items](./markdown/items.md)
 
 ## Rules
-- [Thailand Open Platform 2026 Rules](./documents/rules/OPLTH-Rule2026.pdf)
+- [Thailand Open Platform 2026 Rules](./documents/OPLTH-Rule2026.pdf)
 
 ## Arena map
 ![arena-map](./images/area-map.png)
