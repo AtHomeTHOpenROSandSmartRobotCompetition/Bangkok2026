@@ -6,6 +6,7 @@
 - [Schedules](./markdown/schedules.md)
 - [Names](./markdown/names.md)
 - [Items](./markdown/items.md)
+- [Practice Sheet](https://docs.google.com/spreadsheets/d/1cA-P9It05Q9N-lKJcRblpGrrJf1GOMNn8Q0jEqNWG4s/edit?usp=sharing)
 
 ## Rules
 - [Thailand Open Platform 2026 Rules](./documents/OPLTH-Rule2026.pdf)
