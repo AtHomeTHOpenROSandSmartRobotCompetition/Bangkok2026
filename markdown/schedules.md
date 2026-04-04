@@ -35,7 +35,7 @@
 | 16:15 - 16:30 | Return To Monkey |
 | 16:30 - 16:45 | FireWork |
 | 16:45 - 17:00 | BCC Robot |
-| 17:00 - 17:15 | ~~KRIS~~ |
+| 17:00 - 17:15 | ~~KRIS (Not participated)~~ |
 | 17:00 - 17:15 | CLEANEST |
 | 17:15 - 17:30 | Noname |
 
