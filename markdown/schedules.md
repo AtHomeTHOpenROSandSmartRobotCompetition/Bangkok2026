@@ -19,7 +19,7 @@
 | 12:00 - 12:30 | FireWork |
 | 12:30 - 13:00 | ISOLATE |
 | 13:00 - 13:30 | CLEANEST |
-| 13:30 - 14:00 | KRIS |
+| 13:30 - 14:00 | ~~KRIS~~ |
 | 14:00 - 14:30 | Noname |
 | 14:30 - 15:00 | Return To Monkey |
 | 15:00 - 15:30 | BCC Robot |
@@ -35,7 +35,7 @@
 | 16:15 - 16:30 | Return To Monkey |
 | 16:30 - 16:45 | FireWork |
 | 16:45 - 17:00 | BCC Robot |
-| 17:00 - 17:15 | KRIS |
+| 17:00 - 17:15 | ~~KRIS~~ |
 | 17:15 - 17:30 | CLEANEST |
 | 17:30 - 17:45 | Noname |
 
