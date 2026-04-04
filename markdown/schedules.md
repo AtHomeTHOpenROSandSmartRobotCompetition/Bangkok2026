@@ -36,8 +36,8 @@
 | 16:30 - 16:45 | FireWork |
 | 16:45 - 17:00 | BCC Robot |
 | 17:00 - 17:15 | ~~KRIS~~ |
-| 17:15 - 17:30 | CLEANEST |
-| 17:30 - 17:45 | Noname |
+| 17:00 - 17:15 | CLEANEST |
+| 17:15 - 17:30 | Noname |
 
 
 | Time slot | Activities |
