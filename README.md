@@ -14,5 +14,13 @@
 ![area-map](./images/area-map.png)
 > All of the furniture might not be in these positions, but the room names remain the same.
 
-
-
+## Teams
+| Team Name |
+| :--- |
+| FireWork |
+| ISOLATE |
+| CLEANEST |
+| KRIS |
+| Noname |
+| Return To Monkey |
+| BCC Robot |
