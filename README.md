@@ -12,7 +12,7 @@
 
 ## Area map
 ![area-map](./images/area-map.png)
-> All furnitures might not be in these position. But the room name is the same.
+> All of the furniture might not be in these positions, but the room names remain the same.
 
 
 
