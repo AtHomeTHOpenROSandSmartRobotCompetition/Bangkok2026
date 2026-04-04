@@ -37,7 +37,7 @@
 | 16:45 - 17:00 | BCC Robot |
 | ~~17:00 - 17:15~~ | ~~KRIS (Not participated)~~ |
 | 17:00 - 17:15 | CLEANEST |
-| 17:15 - 17:30 | Noname |
+| ~~17:15 - 17:30~~ | ~~Noname~~ |
 
 
 | Time slot | Activities |
