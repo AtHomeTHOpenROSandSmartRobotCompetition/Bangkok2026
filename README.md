@@ -2,7 +2,7 @@
 
 ## Table of contents
 - [Rules](#rules)
-- [Area map](#arena-map)
+- [Arena map](#arena-map)
 - [Schedules](./markdown/schedules.md)
 - [Names](./markdown/names.md)
 - [Items](./markdown/items.md)
