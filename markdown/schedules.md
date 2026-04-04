@@ -1,4 +1,4 @@
-# Timetable
+# Schedules
 
 ## Table of contents
 - [Day 1](#day-1---setup-day--competition-day)
