@@ -39,7 +39,7 @@
 | FireWork | 300 | 0 | 0 | 300 |
 | ISOLATE | 100 | 0 | 0 | 100 |
 | CLEANEST | 800 | 0 | 0 | 800 |
-| KRIS | -500 | 0 | 0 | -500 |
+| KRIS | -500 | -500 | 0 | -1000 |
 | Noname | 100 | 0 | 0 | 100 |
 | Return To Monkey | 100 | 0 | 0 | 100 |
 | BCC Robot | 150 | 0 | 0 | 150 |
