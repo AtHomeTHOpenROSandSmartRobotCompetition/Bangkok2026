@@ -70,13 +70,13 @@
 
 | Time slot | Team name |
 | :--- | :--- |
-| 15:00 - 15:15 | KRIS |
-| 15:15 - 15:30 | FireWork |
-| 15:30 - 15:45 | ISOLATE |
-| 15:45 - 16:00 | BCC Robot |
-| 16:00 - 16:15 | Return To Monkey |
-| 16:15 - 16:30 | Noname |
-| 16:30 - 16:45 | CLEANEST |
+| 15:00 - 15:15 | ~~KRIS~~ (Not participated) |
+| 15:00 - 15:15 | FireWork |
+| 15:15 - 15:30 | ISOLATE |
+| 15:30 - 15:45 | BCC Robot |
+| 15:45 - 16:00 | Return To Monkey |
+| 16:00 - 16:15 | Noname |
+| 16:15 - 16:30 | CLEANEST |
 
 | Time slot | Activities |
 | :--- | :--- |
@@ -85,13 +85,13 @@
 ### Storing Groceries (Trial 2) Slot
 | Time slot | Team name |
 | :--- | :--- |
-| 17:00 - 17:15 | KRIS |
-| 17:15 - 17:30 | FireWork |
-| 17:30 - 17:45 | ISOLATE |
-| 17:45 - 18:00 | BCC Robot |
-| 18:00 - 18:15 | Return To Monkey |
-| 18:15 - 18:30 | Noname |
-| 18:30 - 18:45 | CLEANEST |
+| 17:00 - 17:15 | ~~KRIS~~ (Not participated) |
+| 17:00 - 17:15 | FireWork |
+| 17:15 - 17:30 | ISOLATE |
+| 17:30 - 17:45 | BCC Robot |
+| 17:45 - 18:00 | Return To Monkey |
+| 18:00 - 18:15 | Noname |
+| 18:15 - 18:30 | CLEANEST |
 
 | Time slot | Team name |
 | :--- | :--- |
