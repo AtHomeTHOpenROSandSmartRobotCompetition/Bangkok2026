@@ -9,7 +9,7 @@
 - [Practice Sheet](https://docs.google.com/spreadsheets/d/1cA-P9It05Q9N-lKJcRblpGrrJf1GOMNn8Q0jEqNWG4s/edit?usp=sharing)
 
 ## Rules
-- [Thailand Open Platform 2026 Rules](./documents/OPLTH-Rule2026.pdf)
+- [Thailand Open Platform 2026 Rules](./documents/RoboCupAtHomeTHRule2026.pdf)
 
 ## Arena map
 ![arena-map](./images/area-map.png)
