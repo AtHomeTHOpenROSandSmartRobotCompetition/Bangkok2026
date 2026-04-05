@@ -71,7 +71,7 @@
 | Time slot | Team name |
 | :--- | :--- |
 | 15:00 - 15:15 | ~~KRIS~~ (Not participated) |
-| 15:00 - 15:15 | FireWork |
+| 15:00 - 15:15 | ~~FireWork~~ |
 | 15:15 - 15:30 | ISOLATE |
 | 15:30 - 15:45 | BCC Robot |
 | 15:45 - 16:00 | Return To Monkey |
