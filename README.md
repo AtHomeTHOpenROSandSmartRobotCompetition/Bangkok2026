@@ -31,12 +31,26 @@
 | BCC Robot |
 
 ## Score
+
+### Final score (Best of all trials)
+| Team name | Carry My Luggage | Storing groceries | Strickler for the rules | Total |
+| :--- | :---: | :---: | :---: | :---: |
+| FireWork | 300 | 0 | 0 | 300 |
+| ISOLATE | 100 | 0 | 0 | 100 |
+| CLEANEST | 800 | 0 | 0 | 800 |
+| KRIS | -500 | 0 | 0 | -500 |
+| Noname | 100 | 0 | 0 | 100 |
+| Return To Monkey | 100 | 0 | 0 | 100 |
+| BCC Robot | 150 | 0 | 0 | 150 |
+
+### Raw score
+
 | Team name | Carry My Luggage (Trial 1) | Carry My Luggage (Trial 2) | Storing groceries (Trial 1) | Storing groceries (Trial 2) | Strickler for the rules (Trial 1) | Strickler for the rules (Trial 2) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| FireWork | 300 | | | | | |
-| ISOLATE | 0 | | | | | |
-| CLEANEST | 200 | | | | | |
-| KRIS | -500 | | | | | |
-| Noname | - | | | | | |
-| Return To Monkey | 0 | | | | | |
-| BCC Robot | 0 | | | | | |
+| FireWork  | 300   | 150   | | | | |
+| ISOLATE   | 0     | 100   | | | | |
+| CLEANEST  | 200   | 800   | | | | |
+| KRIS      | -500  | -500  | | | | |
+| Noname    | -     | 100   | | | | |
+| Return To Monkey | 0  | 100   | | | | |
+| BCC Robot | 0     | 150   | | | | |
