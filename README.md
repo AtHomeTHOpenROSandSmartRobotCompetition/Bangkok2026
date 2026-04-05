@@ -7,6 +7,7 @@
 - [Names](./markdown/names.md)
 - [Items](./markdown/items.md)
 - [Practice Sheet](https://docs.google.com/spreadsheets/d/1cA-P9It05Q9N-lKJcRblpGrrJf1GOMNn8Q0jEqNWG4s/edit?usp=sharing)
+- [Score](#score)
 
 ## Rules
 - [Thailand Open Platform 2026 Rules](./documents/RoboCupAtHomeTHRule2026.pdf)
