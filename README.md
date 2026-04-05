@@ -47,10 +47,10 @@
 
 | Team name | Carry My Luggage (Trial 1) | Carry My Luggage (Trial 2) | Storing groceries (Trial 1) | Storing groceries (Trial 2) | Strickler for the rules (Trial 1) | Strickler for the rules (Trial 2) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| FireWork  | 300   | 150   | | | | |
-| ISOLATE   | 0     | 100   | | | | |
-| CLEANEST  | 200   | 800   | | | | |
-| KRIS      | -500  | -500  | | | | |
-| Noname    | -     | 100   | | | | |
-| Return To Monkey | 0  | 100   | | | | |
-| BCC Robot | 0     | 150   | | | | |
+| FireWork  | 300   | 150   | 0     |       |       |       |
+| ISOLATE   | 0     | 100   | 0     |       |       |       |
+| CLEANEST  | 200   | 800   | 0     |       |       |       |
+| KRIS      | -500  | -500  | -500  |       |       |       |
+| Noname    | 0     | 100   | 0     |       |       |       |
+| Return To Monkey | 0  | 100   | 0     |       |       |       |
+| BCC Robot | 0     | 150   | 0     |       |       |       |
