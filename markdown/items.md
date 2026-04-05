@@ -3,13 +3,13 @@
 ## Drinks
 | Name | Image |
 | :--- | :--- |
-| **coffee** | ![](../images/items/drinks/coffee.JPG) |
-| **coke** | ![](../images/items/drinks/coke.JPG) |
-| **green tea** | ![](../images/items/drinks/green-tea.JPG) |
-| **lemon soda** | ![](../images/items/drinks/lemon-soda.JPG) |
-| **milk** (heavy) | ![](../images/items/drinks/milk.JPG) |
-| **minute maid** | ![](../images/items/drinks/minute-maid.JPG) |
-| **tea** | ![](../images/items/drinks/tea.JPG) |
+| **coffee** | ![](../images/items/drinks/coffee.jpeg) |
+| **coke** | ![](../images/items/drinks/coke.jpeg) |
+| **green tea** | ![](../images/items/drinks/green-tea.jpeg) |
+| **lemon soda** | ![](../images/items/drinks/lemon-soda.jpeg) |
+| **milk** (heavy) | ![](../images/items/drinks/milk.jpeg) |
+| **minute maid** | ![](../images/items/drinks/minute-maid.jpeg) |
+| **tea** | ![](../images/items/drinks/tea.jpeg) |
 
 > The liquid contents will be removed from all drink containers.
 
