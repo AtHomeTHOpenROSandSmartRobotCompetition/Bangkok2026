@@ -16,7 +16,7 @@
 ## Food
 | Name | Image |
 | :--- | :--- |
-| **cheese** | ![](../images/items/food/cheese.JPG) |
+| **cheese** (heavy)| ![](../images/items/food/cheese.JPG) |
 | **french fries** | ![](../images/items/food/french-fries.JPG) |
 | **macci** (heavy) | ![](../images/items/food/macci.JPG) |
 | **tinned fish** (heavy) | ![](../images/items/food/tinned-fish.JPG) |
