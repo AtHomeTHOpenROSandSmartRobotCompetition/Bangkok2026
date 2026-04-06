@@ -126,8 +126,8 @@
 | 12:30 - 12:45 | BCC Robot |
 | 12:45 - 13:00 | FireWork |
 | ~~13:00 - 13:15~~ | ~~Noname~~ |
-| 13:15 - 13:30 | Return To Monkey |
-| ~~13:30 - 13:30~~ | ~~KRIS~~ (Not participated) |
+| 13:00 - 13:15 | Return To Monkey |
+| ~~13:15 - 13:30~~ | ~~KRIS~~ (Not participated) |
 
 | Time slot | Activities |
 | :--- | :--- |
