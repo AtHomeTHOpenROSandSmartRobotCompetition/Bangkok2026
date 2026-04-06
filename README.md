@@ -23,13 +23,13 @@
 ## Teams
 | Team Name |
 | :--- |
-| FireWork 🥈 |
-| ISOLATE |
 | CLEANEST 🥇 |
-| KRIS |
+| FireWork 🥈 |
+| BCC Robot 🥉 |
+| ISOLATE |
 | Noname |
 | Return To Monkey |
-| BCC Robot 🥉 |
+| KRIS |
 
 ## Score
 
