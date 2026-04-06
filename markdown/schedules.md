@@ -140,10 +140,10 @@
 | 14:00 - 14:15 | ISOLATE |
 | 14:15 - 14:30 | CLEANEST |
 | 14:30 - 14:45 | FireWork |
-| 14:45 - 15:00 | KRIS |
-| 15:00 - 15:15 | Return To Monkey |
-| 15:15 - 15:30 | Noname |
+| ~~14:45 - 15:00~~ | ~~KRIS~~ (Not participated) |
+| 14:45 - 15:00 | Return To Monkey |
+| ~~15:00 - 15:00~~ | ~~Noname~~ |
 
 | Time slot | Activities |
 | :--- | :--- |
-| 15:30 - 16:00 | **Team Leader Meeting** |
+| 15:00 - 16:00 | **Team Leader Meeting** |
