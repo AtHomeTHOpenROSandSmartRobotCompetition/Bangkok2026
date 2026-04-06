@@ -110,25 +110,25 @@
 | 10:15 - 10:30 | ISOLATE |
 | 10:30 - 10:45 | BCC Robot |
 | 10:45 - 11:00 | FireWork |
-| 11:00 - 11:15 | Noname |
-| 11:15 - 11:30 | Return To Monkey |
-| 11:30 - 11:45 | KRIS |
+| 11:00 - 11:15 | ~~Noname~~ |
+| 11:00 - 11:15 | Return To Monkey |
+| 11:15 - 11:30 | ~~KRIS~~ (Not participated) |
 
 | Time slot | Activities |
 | :--- | :--- |
-| 11:45 - 12:30 | **Break** |
+| 11:30 - 12:15 | **Break** |
 
 ### Stickler for the Rules (Trial 2) Slot
 | Time slot | Team name |
 | :--- | :--- |
-| 12:30 - 12:45 | CLEANEST |
-| 12:45 - 13:00 | ISOLATE |
-| 13:00 - 13:15 | BCC Robot |
-| 13:15 - 13:30 | FireWork |
-| 13:30 - 13:45 | Noname |
-| 13:45 - 14:00 | Return To Monkey |
-| 14:00 - 14:15 | KRIS |
+| 12:15 - 12:30 | CLEANEST |
+| 12:30 - 12:45 | ISOLATE |
+| 12:45 - 13:00 | BCC Robot |
+| 13:00 - 13:15 | FireWork |
+| 13:15 - 13:30 | ~~Noname~~ |
+| 13:15 - 13:30 | Return To Monkey |
+| 13:45 - 14:00 | ~~KRIS~~ (Not participated) |
 
 | Time slot | Activities |
 | :--- | :--- |
-| 14:15 - 14:45 | **Team Leader Meeting** |
+| 13:30 - 14:00 | **Team Leader Meeting** |
