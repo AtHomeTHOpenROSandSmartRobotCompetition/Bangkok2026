@@ -131,4 +131,20 @@
 
 | Time slot | Activities |
 | :--- | :--- |
-| 13:30 - 14:00 | **Team Leader Meeting** |
+| 13:30 - 14:00 | **Break** |
+
+### Selection for Trial 3
+| Time slot | Team name |
+| :--- | :--- |
+| 14:00 - 14:15 | BCC Robot |
+| 14:15 - 14:30 | ISOLATE |
+| 14:30 - 14:45 | CLEANEST |
+| 14:45 - 15:00 | FireWork |
+| 15:00 - 15:15 | KRIS |
+| 15:15 - 15:30 | Return To Monkey |
+| 15:30 - 15:45 | Noname |
+
+
+| Time slot | Activities |
+| :--- | :--- |
+| 15:45 - 16:00 | **Team Leader Meeting** |
