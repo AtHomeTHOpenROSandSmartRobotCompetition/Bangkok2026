@@ -110,9 +110,9 @@
 | 10:15 - 10:30 | ISOLATE |
 | 10:30 - 10:45 | BCC Robot |
 | 10:45 - 11:00 | FireWork |
-| 11:00 - 11:15 | ~~Noname~~ |
+| ~~11:00 - 11:15~~ | ~~Noname~~ |
 | 11:00 - 11:15 | Return To Monkey |
-| 11:15 - 11:15 | ~~KRIS~~ (Not participated) |
+| ~~11:15 - 11:30~~ | ~~KRIS~~ (Not participated) |
 
 | Time slot | Activities |
 | :--- | :--- |
@@ -125,9 +125,9 @@
 | 12:15 - 12:30 | ISOLATE |
 | 12:30 - 12:45 | BCC Robot |
 | 12:45 - 13:00 | FireWork |
-| 13:00 - 13:15 | ~~Noname~~ |
+| ~~13:00 - 13:15~~ | ~~Noname~~ |
 | 13:15 - 13:30 | Return To Monkey |
-| 13:30 - 13:30 | ~~KRIS~~ (Not participated) |
+| ~~13:30 - 13:30~~ | ~~KRIS~~ (Not participated) |
 
 | Time slot | Activities |
 | :--- | :--- |
