@@ -36,22 +36,22 @@
 ### Final score (Best of all trials)
 | Team name | Carry My Luggage | Storing groceries | Strickler for the rules | Total |
 | :--- | :---: | :---: | :---: | :---: |
-| FireWork | 300 | 0 | 450 | 750 |
+| CLEANEST 🥇 | 800 | 175 | 250 | 1225 |
+| FireWork 🥈 | 300 | 0 | 450 | 750 |
+| BCC Robot 🥉 | 150 | 0 | 350 | 500 |
 | ISOLATE | 100 | 0 | 0 | 100 |
-| CLEANEST | 800 | 0 | 250 | 1050 |
-| KRIS | -500 | -500 | -500 | -1500 |
 | Noname | 100 | 0 | 0 | 100 |
 | Return To Monkey | 100 | 0 | 0 | 100 |
-| BCC Robot | 150 | 0 | 0 | 150 |
+| KRIS | -500 | -500 | -500 | -1500 |
 
 ### Raw score
 
-| Team name | Carry My Luggage (Trial 1) | Carry My Luggage (Trial 2) | Storing groceries (Trial 1) | Storing groceries (Trial 2) | Strickler for the rules (Trial 1) | Strickler for the rules (Trial 2) |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| FireWork  | 300   | 150   | 0     | 0     | 0     | 450   |
-| ISOLATE   | 0     | 100   | 0     | 0     | 0     | 0     |
-| CLEANEST  | 200   | 800   | 0     | 0     | 250   | 250   |
-| KRIS      | -500  | -500  | -500  | -500  | -500  | -500  |
-| Noname    | 0     | 100   | 0     | 0     | 0     | 0     |
-| Return To Monkey | 0  | 100   | 0     | 0     | 0     | 0     |
-| BCC Robot | 0     | 150   | 0     | 0     | 0     | 0     |
+| Team name | Carry My Luggage (Trial 1) | Carry My Luggage (Trial 2) | Carry My Luggage (Trial 3) | Storing groceries (Trial 1) | Storing groceries (Trial 2) | Storing groceries (Trial 3) | Strickler for the rules (Trial 1) | Strickler for the rules (Trial 2) | Strickler for the rules (Trial 3) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| FireWork  | 300   | 150   | 0     | 0     | 0     | 0     | 0     | 450   | 450   |
+| ISOLATE   | 0     | 100   | 0     | 0     | 0     | 0     | 0     | 0     | 0     |
+| CLEANEST  | 200   | 800   | 0     | 0     | 0     | 175   | 250   | 250   | 0     |
+| KRIS      | -500  | -500  | 0  | -500  | -500  | 0  | -500  | -500  | 0  |
+| Noname    | 0     | 100   | 0     | 0     | 0     | 0     | 0     | 0     | 0     |
+| Return To Monkey | 0  | 100   | 0     | 0     | 0     | 0     | 0     | 0     | 0     |
+| BCC Robot | 0     | 150   | 0     | 0     | 0     | 0     | 0     | 0     | 350   |
